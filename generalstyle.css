@@ -1,0 +1,9 @@
+body {
+  margin: 0;
+  padding-bottom: 1000px ;
+  padding-top: 100px;
+  padding-left: 120px;
+  padding-right: 40px;
+  background-color: rgb(238, 237, 237);
+  font-family: Roboto, Arial;
+}
